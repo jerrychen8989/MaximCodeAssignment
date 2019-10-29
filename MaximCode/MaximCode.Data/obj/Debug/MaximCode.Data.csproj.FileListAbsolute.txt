@@ -1,0 +1,13 @@
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\bin\Debug\MaximCode.Data.dll.config
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\bin\Debug\MaximCode.Data.dll
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\bin\Debug\MaximCode.Data.pdb
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\bin\Debug\EntityFramework.dll
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\bin\Debug\EntityFramework.xml
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\obj\Debug\MaximCode.Data.csprojAssemblyReference.cache
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\obj\Debug\MaximCode.Data.csproj.CopyComplete
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\obj\Debug\MaximCode.Data.dll
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\obj\Debug\MaximCode.Data.pdb
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\obj\Debug\MaximCode.Data.Migrations.firstcommit.resources
+C:\Users\cdbcd\source\repos\MaximCode\MaximCode.Data\obj\Debug\MaximCode.Data.csproj.GenerateResource.cache
